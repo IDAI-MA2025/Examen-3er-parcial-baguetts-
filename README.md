@@ -1,6 +1,4 @@
-# 
-
-#Instrucciones para realizar el Examen del Tercer Parcial (Septiembre - Diciembre 2025)
+# Instrucciones para realizar el Examen del Tercer Parcial (Septiembre - Diciembre 2025)
 Este proyecto consiste en completar una página web donde los usuarios pueden hacer un pedido de hamburguesas personalizadas. A continuación, se detallan los puntos que deberás implementar para que el sistema calcule correctamente el total del pedido.
 
 ---
@@ -90,4 +88,4 @@ if (esDomicilio) {
 
 Este reto combina HTML, formularios, estilos CSS y lógica con JavaScript. El objetivo es aplicar conocimientos de DOM, eventos, estructuras de control y cálculo dinámico.
 
-¡Mucho éxito y buen provecho! 🍔
+¡Mucho éxito y buen provecho!
