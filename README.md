@@ -88,4 +88,4 @@ if (esDomicilio) {
 
 Este reto combina HTML, formularios, estilos CSS y lógica con JavaScript. El objetivo es aplicar conocimientos de DOM, eventos, estructuras de control y cálculo dinámico.
 
-¡Mucho éxito y buen provecho! 🍔
+¡Mucho éxito y buen provecho!
